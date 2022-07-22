@@ -93,6 +93,7 @@ CONCURSO PÚBLICO PARA PROVIMENTO DE VAGA E FORMAÇÃO DE CADASTRO DE RESERVA PA
 - [ ] - estruturas hierárquicas: árvore (definição, representação, caminhamento em árvore binária, transformação de árvore em árvore binária);
 - [ ] - implementação de hierarquias;
 - [ ] - e implementação de redes. 
+
 ***Segurança da informação:***
 - [ ] - gestão de segurança da informação: classificação e controle de ativos de informação, segurança de ambientes físicos e lógicos, controles de acesso, segurança de serviços terceirizados;
 - [ ] - gestão de risco: planejamento, identificação e análise de risco, plano de continuidade de negócio;
@@ -102,6 +103,7 @@ CONCURSO PÚBLICO PARA PROVIMENTO DE VAGA E FORMAÇÃO DE CADASTRO DE RESERVA PA
 - [ ] - ataques a redes de computadores: prevenção e tratamento de incidentes, tipos de  ataques  (spoofing,  flood,  DoS,  DDoS,  phishing);
 - [ ] - malwares:  vírus  de  computador,  cavalo  de  tróia,  adware,  spyware,  backdoors, keylogger, worm8;
 - [ ] - segurança na internet: virtual  private networks, segurança em servidores WWW, SMTP, POP, FTP e DNS. 
+
 ***Banco de dados:***
 - [ ] - fundamentos;
 - [ ] - características;
@@ -112,6 +114,7 @@ CONCURSO PÚBLICO PARA PROVIMENTO DE VAGA E FORMAÇÃO DE CADASTRO DE RESERVA PA
 - [ ] - linguagem  SQL;
 - [ ] - sistemas  Gerenciadores  de  Bancos  de  Dados:  Oracle,  MS-SQL  Server, PostgreSQL e MySQL;
 - [ ] - fundamentos de Datawarehouse. Modelagem dimensional.
+
 ***Redes de computadores:***
 - [ ] - princípios e fundamentos de comunicação de dados;
 - [ ] - meios de transmissão;
@@ -122,6 +125,7 @@ CONCURSO PÚBLICO PARA PROVIMENTO DE VAGA E FORMAÇÃO DE CADASTRO DE RESERVA PA
 - [ ] - elementos  de  interconexão  de  redes  de computadores  (gateways,  hubs,  repetidores,  bridges,  switches,  roteadores;
 - [ ] - internet;
 - [ ] - protocolo  TCS/IP. 
+
 ***Servidores  Web  /  Aplicação  / Containers:***
 - [ ] - características, funcionalidades e conhecimentos básicos de JBoss, Apache, Tomcat e IIS.
 
@@ -132,14 +136,17 @@ CONCURSO PÚBLICO PARA PROVIMENTO DE VAGA E FORMAÇÃO DE CADASTRO DE RESERVA PA
 - [ ] - Tomcat. Jboss.
 - [ ] - Eclipse.
 - [ ] - Controle  de  versões:  CVS.
+
 ***UML:***
 - [ ] - conceitos,  fundamentos  e  sintaxe  da  UML.
-Análise  e  Projeto  De  Sistemas: engenharia  de software:
+
+***Análise  e  Projeto  De  Sistemas: engenharia  de software:***
 - [ ] - evolução;
 - [ ] - características;
 - [ ] - ciclos  de  vida;
 - [ ] - metodologias;
 - [ ] - técnicas  de  especificação;
+
 ***Plano  de  projeto:***
 - [ ] - recursos;
 - [ ] - métricas  de produtividade  e  qualidade;
@@ -148,10 +155,12 @@ Análise  e  Projeto  De  Sistemas: engenharia  de software:
 - [ ] - modelos  de  estimativas;
 - [ ] - cronogramas;
 - [ ] - aquisição de  software.
+
 ***Metodologias de desenvolvimento de sistemas:***
 - [ ] - Análise essencial,
 - [ ] - Análise Estruturada e Análise orientada a objetos.
 - [ ] - Metodologias ágeis para o desenvolvimento de software: Scrum 2020, XP, Lean.
+
 ***Análise de sistemas:***
 - [ ] - análise de requisitos;
 - [ ] - princípios de análise;
@@ -164,6 +173,7 @@ Análise  e  Projeto  De  Sistemas: engenharia  de software:
 - [ ] - análise  estruturada,
 - [ ] - engenharia  da  informação  e  análise  essencial,
 - [ ] - prototipação.
+
 ***Projeto  de  software:***
 - [ ] - fundamentos;
 - [ ] - processo;
@@ -172,6 +182,7 @@ Análise  e  Projeto  De  Sistemas: engenharia  de software:
 - [ ] - estrutura  de  dados;
 - [ ] - conceitos,  metodologias,  técnicas,  fases,  ferramentas,  diagramas  e  notações  de  projeto modular,  projeto  orientado  a  fluxos  de  dados,
 - [ ] - projeto  orientado  a  estruturas  de  dados  e  projeto  orientado  a  objetos;
+
 ***Linguagens:***
 - [ ] - características;
 - [ ] - fundamentos;
@@ -189,6 +200,7 @@ Análise  e  Projeto  De  Sistemas: engenharia  de software:
 - [ ] - representação  e manipulação de matrizes,
 - [ ] - listas, filas, 
 - [ ] - pilhas e árvores;
+
 ***Teste de software:***
 - [ ] - fundamentos;
 - [ ] - técnicas;
@@ -202,6 +214,7 @@ Análise  e  Projeto  De  Sistemas: engenharia  de software:
 - [ ] - teste de validação;
 - [ ] - teste do sistema;
 - [ ] - Debugging.
+
 ***Banco de dados:***
 - [ ] - Conceitos básicos.
 - [ ] - Arquitetura.
