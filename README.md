@@ -51,7 +51,7 @@ CONCURSO PÚBLICO PARA PROVIMENTO DE VAGA E FORMAÇÃO DE CADASTRO DE RESERVA PA
 - [ ] - advérbios;
 - [ ] - preposições e conjunções.
 
-** Racíocionio lógico **
+**Racíocionio lógico**
 - [ ] - 1 Operações, propriedades e aplicações (soma, subtração, multiplicação, divisão, potenciação e radiciação).
 - [ ] - 2 Princípios de contagem e probabilidade.
 - [ ] - 3 Arranjos e permutações.
@@ -65,8 +65,9 @@ CONCURSO PÚBLICO PARA PROVIMENTO DE VAGA E FORMAÇÃO DE CADASTRO DE RESERVA PA
 - [ ] - 11 Lógica de argumentação (analogias, inferências, deduções e conclusões).
 - [ ] - 12 Diagramas lógicos.
 
-** CONHECIMENTO ESPECÌFICO I
-Sistema operacional:
+**CONHECIMENTO ESPECÌFICO I**
+
+***Sistema operacional:***
 - [ ] - gerência de memória;
 - [ ] - sistema de E/S, sistemas  de  arquivos.
 - [ ] - Lógica  de  programação  e  estrutura  de  dados: algoritmos;
@@ -92,7 +93,7 @@ Sistema operacional:
 - [ ] - estruturas hierárquicas: árvore (definição, representação, caminhamento em árvore binária, transformação de árvore em árvore binária);
 - [ ] - implementação de hierarquias;
 - [ ] - e implementação de redes. 
-Segurança da informação:
+***Segurança da informação:***
 - [ ] - gestão de segurança da informação: classificação e controle de ativos de informação, segurança de ambientes físicos e lógicos, controles de acesso, segurança de serviços terceirizados;
 - [ ] - gestão de risco: planejamento, identificação e análise de risco, plano de continuidade de negócio;
 - [ ] - política de segurança da informação: processos  de  definição,  implantação  e  gestão  de  políticas  de  segurança  e  auditoria;
@@ -101,7 +102,7 @@ Segurança da informação:
 - [ ] - ataques a redes de computadores: prevenção e tratamento de incidentes, tipos de  ataques  (spoofing,  flood,  DoS,  DDoS,  phishing);
 - [ ] - malwares:  vírus  de  computador,  cavalo  de  tróia,  adware,  spyware,  backdoors, keylogger, worm8;
 - [ ] - segurança na internet: virtual  private networks, segurança em servidores WWW, SMTP, POP, FTP e DNS. 
-Banco de dados:
+***Banco de dados:***
 - [ ] - fundamentos;
 - [ ] - características;
 - [ ] - funcionalidades;
@@ -111,7 +112,7 @@ Banco de dados:
 - [ ] - linguagem  SQL;
 - [ ] - sistemas  Gerenciadores  de  Bancos  de  Dados:  Oracle,  MS-SQL  Server, PostgreSQL e MySQL;
 - [ ] - fundamentos de Datawarehouse. Modelagem dimensional.
-Redes de computadores:
+***Redes de computadores:***
 - [ ] - princípios e fundamentos de comunicação de dados;
 - [ ] - meios de transmissão;
 - [ ] - topologias de redes de computadores;
@@ -121,17 +122,17 @@ Redes de computadores:
 - [ ] - elementos  de  interconexão  de  redes  de computadores  (gateways,  hubs,  repetidores,  bridges,  switches,  roteadores;
 - [ ] - internet;
 - [ ] - protocolo  TCS/IP. 
-Servidores  Web  /  Aplicação  / Containers:
+***Servidores  Web  /  Aplicação  / Containers:***
 - [ ] - características, funcionalidades e conhecimentos básicos de JBoss, Apache, Tomcat e IIS.
 
-Java  (J2EE):
+***Java  (J2EE):***
 - [ ] - conceitos, Fundamentos e Sintaxe da Linguagem Java.
 - [ ] - Desenvolvimento de Aplicações na Plataforma J2EE.
 - [ ] - Uso de Servlets e JSP.
 - [ ] - Tomcat. Jboss.
 - [ ] - Eclipse.
 - [ ] - Controle  de  versões:  CVS.
-UML:
+***UML:***
 - [ ] - conceitos,  fundamentos  e  sintaxe  da  UML.
 Análise  e  Projeto  De  Sistemas: engenharia  de software:
 - [ ] - evolução;
@@ -139,7 +140,7 @@ Análise  e  Projeto  De  Sistemas: engenharia  de software:
 - [ ] - ciclos  de  vida;
 - [ ] - metodologias;
 - [ ] - técnicas  de  especificação;
-Plano  de  projeto:
+***Plano  de  projeto:***
 - [ ] - recursos;
 - [ ] - métricas  de produtividade  e  qualidade;
 - [ ] - estimativas;
@@ -147,11 +148,11 @@ Plano  de  projeto:
 - [ ] - modelos  de  estimativas;
 - [ ] - cronogramas;
 - [ ] - aquisição de  software.
-Metodologias de desenvolvimento de sistemas:
+***Metodologias de desenvolvimento de sistemas:***
 - [ ] - Análise essencial,
 - [ ] - Análise Estruturada e Análise orientada a objetos.
 - [ ] - Metodologias ágeis para o desenvolvimento de software: Scrum 2020, XP, Lean.
-Análise de sistemas:
+***Análise de sistemas:***
 - [ ] - análise de requisitos;
 - [ ] - princípios de análise;
 - [ ] - conceitos, metodologias,
@@ -163,7 +164,7 @@ Análise de sistemas:
 - [ ] - análise  estruturada,
 - [ ] - engenharia  da  informação  e  análise  essencial,
 - [ ] - prototipação.
-Projeto  de  software:
+***Projeto  de  software:***
 - [ ] - fundamentos;
 - [ ] - processo;
 - [ ] - arquitetura  de  software;
@@ -171,7 +172,7 @@ Projeto  de  software:
 - [ ] - estrutura  de  dados;
 - [ ] - conceitos,  metodologias,  técnicas,  fases,  ferramentas,  diagramas  e  notações  de  projeto modular,  projeto  orientado  a  fluxos  de  dados,
 - [ ] - projeto  orientado  a  estruturas  de  dados  e  projeto  orientado  a  objetos;
-Linguagens:
+***Linguagens:***
 - [ ] - características;
 - [ ] - fundamentos;
 - [ ] - gerações;
@@ -188,7 +189,7 @@ Linguagens:
 - [ ] - representação  e manipulação de matrizes,
 - [ ] - listas, filas, 
 - [ ] - pilhas e árvores;
-Teste de software:
+***Teste de software:***
 - [ ] - fundamentos;
 - [ ] - técnicas;
 - [ ] - teste da caixa branca;
@@ -201,7 +202,7 @@ Teste de software:
 - [ ] - teste de validação;
 - [ ] - teste do sistema;
 - [ ] - Debugging.
-Banco de dados:
+***Banco de dados:***
 - [ ] - Conceitos básicos.
 - [ ] - Arquitetura.
 - [ ] - Estrutura de dados.
