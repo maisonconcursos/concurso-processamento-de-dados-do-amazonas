@@ -71,6 +71,7 @@ CONCURSO PÚBLICO PARA PROVIMENTO DE VAGA E FORMAÇÃO DE CADASTRO DE RESERVA PA
 - [ ] - gerência de memória;
 - [ ] - sistema de E/S,
 - [ ] - sistemas  de  arquivos.
+
 ***Lógica  de  programação  e  estrutura  de  dados:***
 - [ ] - algoritmos;
 - [ ] - raciocínio lógico;
@@ -169,6 +170,7 @@ CONCURSO PÚBLICO PARA PROVIMENTO DE VAGA E FORMAÇÃO DE CADASTRO DE RESERVA PA
 ***Metodologias de desenvolvimento de sistemas:***
 - [ ] - Análise essencial,
 - [ ] - Análise Estruturada e Análise orientada a objetos.
+
 ***Metodologias ágeis para o desenvolvimento de software:***
 - [ ] - Scrum 2020,
 - [ ] - XP,
