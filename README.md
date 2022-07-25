@@ -69,9 +69,12 @@ CONCURSO PÚBLICO PARA PROVIMENTO DE VAGA E FORMAÇÃO DE CADASTRO DE RESERVA PA
 
 ***Sistema operacional:***
 - [ ] - gerência de memória;
-- [ ] - sistema de E/S, sistemas  de  arquivos.
-- [ ] - Lógica  de  programação  e  estrutura  de  dados: algoritmos;
-- [ ] - raciocínio lógico; tipos de  variáveis;
+- [ ] - sistema de E/S,
+- [ ] - sistemas  de  arquivos.
+***Lógica  de  programação  e  estrutura  de  dados:***
+- [ ] - algoritmos;
+- [ ] - raciocínio lógico;
+- [ ] - tipos de  variáveis;
 - [ ] - expressões aritméticas, lógicas e relacionais;
 - [ ] - comandos de atribuição;
 - [ ] - comandos de entrada e saída;
@@ -89,7 +92,13 @@ CONCURSO PÚBLICO PARA PROVIMENTO DE VAGA E FORMAÇÃO DE CADASTRO DE RESERVA PA
 - [ ] - tipos de arquivo: permanente, de transação, intermediário;
 - [ ] - organização de arquivos;
 - [ ] - métodos de acesso arquivos;
-- [ ] - conceitos de  estrutura  de  dados:  divisão  esquemática  das  estruturas  de  dados,  alocação  estática,  alocação  dinâmica,  listas  lineares,  pilha,  fila;
+- [ ] - conceitos de  estrutura  de  dados:
+- [ ] -  divisão  esquemática  das  estruturas  de  dados,
+- [ ] -  alocação  estática,
+- [ ] -  alocação  dinâmica,
+- [ ] -  listas  lineares,
+- [ ] -  pilha,
+- [ ] -  fila;
 - [ ] - estruturas hierárquicas: árvore (definição, representação, caminhamento em árvore binária, transformação de árvore em árvore binária);
 - [ ] - implementação de hierarquias;
 - [ ] - e implementação de redes. 
@@ -133,7 +142,8 @@ CONCURSO PÚBLICO PARA PROVIMENTO DE VAGA E FORMAÇÃO DE CADASTRO DE RESERVA PA
 - [ ] - conceitos, Fundamentos e Sintaxe da Linguagem Java.
 - [ ] - Desenvolvimento de Aplicações na Plataforma J2EE.
 - [ ] - Uso de Servlets e JSP.
-- [ ] - Tomcat. Jboss.
+- [ ] - Tomcat.
+- [ ] - Jboss.
 - [ ] - Eclipse.
 - [ ] - Controle  de  versões:  CVS.
 
@@ -159,12 +169,16 @@ CONCURSO PÚBLICO PARA PROVIMENTO DE VAGA E FORMAÇÃO DE CADASTRO DE RESERVA PA
 ***Metodologias de desenvolvimento de sistemas:***
 - [ ] - Análise essencial,
 - [ ] - Análise Estruturada e Análise orientada a objetos.
-- [ ] - Metodologias ágeis para o desenvolvimento de software: Scrum 2020, XP, Lean.
+***Metodologias ágeis para o desenvolvimento de software:***
+- [ ] - Scrum 2020,
+- [ ] - XP,
+- [ ] - Lean.
 
 ***Análise de sistemas:***
 - [ ] - análise de requisitos;
 - [ ] - princípios de análise;
-- [ ] - conceitos, metodologias,
+- [ ] - conceitos,
+- [ ] - metodologias,
 - [ ] - arquiteturas,
 - [ ] - técnicas,
 - [ ] - fases,
@@ -180,7 +194,13 @@ CONCURSO PÚBLICO PARA PROVIMENTO DE VAGA E FORMAÇÃO DE CADASTRO DE RESERVA PA
 - [ ] - arquitetura  de  software;
 - [ ] - estrutura  de  programas;
 - [ ] - estrutura  de  dados;
-- [ ] - conceitos,  metodologias,  técnicas,  fases,  ferramentas,  diagramas  e  notações  de  projeto modular,  projeto  orientado  a  fluxos  de  dados,
+- [ ] - conceitos,
+- [ ] - metodologias,
+- [ ] - técnicas,
+- [ ] - fases,
+- [ ] - ferramentas,
+- [ ] - diagramas  e  notações  de  projeto modular,
+- [ ] - projeto  orientado  a  fluxos  de  dados,
 - [ ] - projeto  orientado  a  estruturas  de  dados  e  projeto  orientado  a  objetos;
 
 ***Linguagens:***
@@ -222,4 +242,6 @@ CONCURSO PÚBLICO PARA PROVIMENTO DE VAGA E FORMAÇÃO DE CADASTRO DE RESERVA PA
 - [ ] - Modelagem e normalização de dados.
 - [ ] - Noções de administração de dados e de banco de dados.
 - [ ] - SQL (ANSI). 
-- [ ] - Oracle, MySqle PostgreSQL
+- [ ] - Oracle,
+- [ ] - MySql
+- [ ] - PostgreSQL
