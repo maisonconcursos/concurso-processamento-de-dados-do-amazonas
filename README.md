@@ -65,7 +65,7 @@ CONCURSO PÚBLICO PARA PROVIMENTO DE VAGA E FORMAÇÃO DE CADASTRO DE RESERVA PA
 - [ ] - 11 Lógica de argumentação (analogias, inferências, deduções e conclusões).
 - [ ] - 12 Diagramas lógicos.
 
-**CONHECIMENTO ESPECÌFICO I**
+**CONHECIMENTO ESPECÌFICO I - Referente ao Cargo**
 
 ***Sistema operacional:***
 - [ ] - gerência de memória;
@@ -139,6 +139,8 @@ CONCURSO PÚBLICO PARA PROVIMENTO DE VAGA E FORMAÇÃO DE CADASTRO DE RESERVA PA
 ***Servidores  Web  /  Aplicação  / Containers:***
 - [ ] - características, funcionalidades e conhecimentos básicos de JBoss, Apache, Tomcat e IIS.
 
+
+**CONHECIMENTO ESPECÌFICO II - Referente à Função**
 ***Java  (J2EE):***
 - [ ] - conceitos, Fundamentos e Sintaxe da Linguagem Java.
 - [ ] - Desenvolvimento de Aplicações na Plataforma J2EE.
