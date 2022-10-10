@@ -26,7 +26,7 @@ CONCURSO PÚBLICO PARA PROVIMENTO DE VAGA E FORMAÇÃO DE CADASTRO DE RESERVA PA
 - [ ] - 5 Domínio da estrutura morfossintática do período.
   - [ ] - 5.1 Emprego das classes de palavras.
   - [ ] - 5.2 Relações de coordenação entre  orações e entre termos da  oração.
-  - [ ] - 5.3 Relações de subordinação entre orações e entre termosda oração.
+  - [ ] - 5.3 Relações de subordinação entre orações e entre termos da oração.
   - [ ] - 5.4 Emprego dos sinais de pontuação.
   - [ ] - 5.5 Concordância verbal e nominal.
   - [ ] - 5.6 Regência verbal e nominal.
