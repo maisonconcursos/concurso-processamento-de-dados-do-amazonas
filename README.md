@@ -258,4 +258,6 @@
 
 ## Cronograma
 ![image](https://user-images.githubusercontent.com/100721117/196063467-eb53ca01-64be-4230-bd5d-2745a8f525b5.png)
+![image](https://user-images.githubusercontent.com/100721117/196063532-fe6d9667-10bd-4358-abea-02284a8e7c0b.png)
+
 
