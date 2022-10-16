@@ -1,17 +1,23 @@
 # [Concurso Processamento de Dados Amazonas - PRODAM](http://www.quadrix.org.br/todos-os-concursos/proximos-concursos/prodam2022.aspx)
-CONCURSO PÚBLICO PARA PROVIMENTO DE VAGA E FORMAÇÃO DE CADASTRO DE RESERVA PARA CARGOS DE NÍVEL FUNDAMENTAL, NÍVEL MÉDIO E NÍVEL SUPERIOR
-* EDITAL Nº 1, DE 21 DE JULHO DE 2022.
+## CONCURSO PÚBLICO PARA PROVIMENTO DE VAGA E FORMAÇÃO DE CADASTRO DE RESERVA PARA CARGOS DE NÍVEL FUNDAMENTAL, NÍVEL MÉDIO E NÍVEL SUPERIOR
+## EDITAL Nº 1, DE 21 DE JULHO DE 2022.
 
-## Banca: Quadrix
+# Banca:
+> Instituto Quadrix
 
-### Analista de TI/Analista de Desenvolvimento de Sistemas - AC 20 vagas + PCD 5 vagas. - R$ 7.273,43
+## Cargo, vagas e salário
+> Analista de TI/Analista de Desenvolvimento de Sistemas - AC 20 vagas + PCD 5 vagas. - R$ 7.273,43
 
-### Isenção de 03/08 à 05/08
+## Isenção e inscrição
+> Isenção de 03/08 à 05/08
 
-####  Prova 16/10/2022
+#### Prova e Disciplinas
+> 16/10/2022
+
+> Disciplinas
 ![image](https://user-images.githubusercontent.com/100721117/180509617-d2fc492f-7586-410a-bd4a-cc0ef863c4fa.png)
 
-#### Requisitos
+#### Requisitos, atribuições e responsabilidades
 ![image](https://user-images.githubusercontent.com/100721117/180514535-cc4c8654-84ef-42c7-935d-9967c0016a3e.png)
 
 #### Conhecimentos Gerais
@@ -249,3 +255,7 @@ CONCURSO PÚBLICO PARA PROVIMENTO DE VAGA E FORMAÇÃO DE CADASTRO DE RESERVA PA
 - [ ] - Oracle,
 - [ ] - MySql
 - [ ] - PostgreSQL
+
+## Cronograma
+![image](https://user-images.githubusercontent.com/100721117/196063467-eb53ca01-64be-4230-bd5d-2745a8f525b5.png)
+
